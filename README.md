@@ -7,3 +7,4 @@ The long term objective of carrying out this study on cement sector in Nepal was
 The short-term objective of this study was to generate all relevant information of the cement sector to facilitate the process of development of concept note as well as project development proposal for future studies.
 
 The survey was conducted by experts making field visits and data collection was done by Pen-and-Paper Personal Interview (PAPI) method. Here, the survey questionnaire was digited by the author of this repository (Mr. Sharamsh Koirala) and made into Microsoft Access forms. The collected data will be privately held and cannot be disclosed.
+![Map of Nepal with GIS mapping of Cement Industries](https://github.com/Sharamsh-Koirala/UNOPS-DevStatusCementIndustry/blob/master/NepalCementIndustryWithOSM.jpeg)
